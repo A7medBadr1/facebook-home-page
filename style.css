@@ -1,0 +1,101 @@
+body{
+    direction: rtl;
+    font-family: inherit;
+    background-color:rgb(240, 242, 245);
+}
+h1{
+    color:#1877F2;
+    position: relative;
+    top: 180px;
+    right: 390px;
+    font-size:60px;
+
+}
+.p{
+font-size: 25px;
+position: relative;
+top: 150px;
+right: 380px;
+}
+form{
+    position: relative;
+    right: 1050px;
+    top:-50px;
+  border: solid;
+  border-radius: 8px;
+  width: 370px;
+  height: 340px;
+  padding: 12px;
+  background-color: white;
+  border-color:white ;
+
+}
+.login{
+    position: relative;
+    top: 22px;
+    width: 360px;
+    height: 45px;
+    background-color: #1877F2;
+    border-radius: 5px;
+}
+#lo{
+    text-decoration: none;
+    position: relative;
+    right:130px;
+    top: 8px;
+    color:white;
+    font-style:inherit;
+    font-size: 21px;
+    width: 332px;
+}
+hr{
+    position:relative;
+    top: 50px;
+}
+#pass{
+    position: relative;
+    top: 40px;
+    right: 118px;
+    color: #1877F2;
+}
+#email{
+    position: relative;
+    top: 50px;
+    right: 100px;
+    width: 160px;
+    height: 45px;
+    background-color: #42b72a;;
+    border-radius: 5px;
+    font: display px; ;
+}
+#acc{
+    position: relative;
+    right:20px;
+    top: 10px;
+    color: white;
+    font-style:inherit;
+    font-size: 21px;
+}
+.email{
+    width: 360px;
+    height: 45px;
+    position: relative;
+    border-radius: 5px;
+    color:rgb(240, 242, 245) ;
+    border-color:rgb(240, 242, 245) ;
+}
+.password{
+    width: 360px;
+    height: 45px;
+    position: relative;
+    border-radius: 5px;
+    color:rgb(240, 242, 245) ;
+    border-color:rgb(240, 242, 245) ;
+    top: 20px;
+}
+.page{
+    direction: ltr;
+    position: relative;
+    left: 500px;
+    top: -40px;
+}
